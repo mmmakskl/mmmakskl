@@ -19,6 +19,8 @@
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmakskl&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mmmakskl&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=mmmakskl&icon=2&color=12)](https://visitcount.itsvg.in)
 
