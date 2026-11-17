@@ -22,18 +22,7 @@ I have professional experience in **SaaS and cybersecurity**. My commercial work
 
 ## About me
 
-I'm a software engineer focused on **Go backend development** and **AI-powered applications**. I enjoy turning complex requirements into understandable systems — from APIs, data models, and integrations to automation pipelines and developer tooling.
-
-My experience includes work in **SaaS and cybersecurity environments**. I value maintainability, explicit system boundaries, observability, and thoughtful engineering trade-offs.
-
-**Areas of focus**
-
-- **Backend engineering:** service-oriented architectures, REST/gRPC APIs, persistence, background processing, and integrations.
-- **AI engineering:** integrating LLM-powered capabilities into applications, AI-assisted workflows, and practical automation.
-- **Production mindset:** testing, containerized development, diagnostics, metrics, tracing, and operational clarity.
-- **Product thinking:** building software around real users and measurable problems, not technology for its own sake.
-
-> **A note for recruiters:** Most of my commercial experience is not represented by public repositories due to the nature of professional work. The projects below showcase selected personal work, technical interests, and hands-on experimentation.
+Golang backend engineer with experience building **high-load, fault-tolerant systems** in **FinTech, cybersecurity, and SaaS**. I focus on **distributed architectures** and **performance optimization**, ramp up quickly in complex codebases, and work carefully with mission-critical data. I prioritize **data consistency, reliability, and zero data loss**.
 
 ## Engineering toolkit
 
