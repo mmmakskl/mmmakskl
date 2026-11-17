@@ -122,29 +122,3 @@ Fluid-flow simulation experiments using a lattice Boltzmann model (D2Q9-BGK), wi
 - [Knowledge Repository](https://github.com/mmmakskl/Knowledge_repository) — a curated collection of software-engineering study materials and technical references.
 
 </details>
-
-## GitHub activity
-
-<div align="center">
-
-<img src="./assets/activity.svg" alt="Public GitHub activity overview, generated from GitHub repository data" width="100%" />
-
-[**View my official GitHub contribution graph →**](https://github.com/mmmakskl?tab=overview)
-
-<sub>Activity reflects public repositories only. Private work and employer contributions are not included. The card is maintained by GitHub Actions; metrics are not a measure of engineering impact.</sub>
-
-</div>
-
----
-
-<div align="center">
-
-### Let's connect
-
-I'm interested in meaningful engineering challenges across **Go backend, AI applications, SaaS, and security-focused software**.
-
-**[Message me on Telegram](https://t.me/maksonchigg)** · **[Explore my repositories](https://github.com/mmmakskl?tab=repositories)**
-
-<sub>Build thoughtfully. Ship reliably. Keep learning.</sub>
-
-</div>
